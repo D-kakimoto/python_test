@@ -1,3 +1,7 @@
 Hello,World!
 This is changed.
+<<<<<<< ab575d4f94969a8b66acb09b3a9154d884e5a31b
 add the comment from dev2.
+=======
+add the comment from dev3.
+>>>>>>> dev3 commit
